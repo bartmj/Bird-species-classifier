@@ -1,2 +1,3 @@
 ﻿voila
 fastbook
+ipywidgets
